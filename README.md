@@ -19,7 +19,7 @@ Project consisted of developing a data mining tool to evaluate the quality of sk
  
   [Data preprocessing](https://github.com/ckelaid/Evaluation-of-skull-stripped-MRI-brain-images/blob/main/data_preprocess_01.ipynb)
   
-  ![Image](MRI_image.png)
+  ![Image](Images/MRI_image.png)
  
  ## Model fitting
  
