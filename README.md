@@ -25,7 +25,7 @@ Project consisted of developing a data mining tool to evaluate the quality of sk
  
  Two CNN models were fit for each task respectively
  
- #### Brain Loss Features Evaluation
+ #### Brain Feature Loss Evaluation
  
  [Model fitting](https://github.com/ckelaid/Evaluation-of-skull-stripped-MRI-brain-images/blob/main/MODEL_32.ipynb)
  
@@ -35,7 +35,7 @@ Project consisted of developing a data mining tool to evaluate the quality of sk
    ![Image](Images/Evaluation_metrics2.png)
  
  
- #### Recognizable Features Evaluation
+ #### Recognizable Facial Features Evaluation
  
  [Model fitting]()
  
