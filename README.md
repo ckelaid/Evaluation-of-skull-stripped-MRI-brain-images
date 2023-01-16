@@ -27,7 +27,7 @@ Project consisted of developing a data mining tool to evaluate the quality of sk
  
  #### Brain Feature Loss Evaluation
  
- [Model fitting](https://github.com/ckelaid/Evaluation-of-skull-stripped-MRI-brain-images/blob/main/MODEL_32.ipynb)
+ [Model fitting](https://github.com/ckelaid/Evaluation-of-skull-stripped-MRI-brain-images/blob/main/brainLoss_MODEL.ipynb)
  
    ![Image](Images/Evaluation_metrics.png)
 
